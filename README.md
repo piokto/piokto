@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @piokto
-- 👀 I’m interested in Linux
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 2002年生人,二十风华正茂
+- 普通凡夫俗子罢了
+
 
 <!---
-piokto/piokto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+博客:https://piokto.github.io
+Mail：aoabos@outlook.com
+Tg:@piotk
 --->
