@@ -1,1 +1,1 @@
-You Only Live Once
+Kill world
